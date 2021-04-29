@@ -43,5 +43,5 @@ app.use(function(err, req, res, next) {
 })
 
 app.listen(3000, function() {
-    console.log("YO, they listenin")
+    console.log("Listening on port 3000")
 })
